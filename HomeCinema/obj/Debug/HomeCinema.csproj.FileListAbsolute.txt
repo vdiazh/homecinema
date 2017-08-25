@@ -1,0 +1,43 @@
+C:\Users\Willy Osorto\Documents\Visual Studio 2012\Projects\HomeCinema\HomeCinema\bin\Debug\HomeCinema.exe.config
+C:\Users\Willy Osorto\Documents\Visual Studio 2012\Projects\HomeCinema\HomeCinema\bin\Debug\HomeCinema.exe
+C:\Users\Willy Osorto\Documents\Visual Studio 2012\Projects\HomeCinema\HomeCinema\bin\Debug\HomeCinema.pdb
+C:\Users\Willy Osorto\Documents\Visual Studio 2012\Projects\HomeCinema\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+C:\Users\Willy Osorto\Documents\Visual Studio 2012\Projects\HomeCinema\HomeCinema\obj\Debug\HomeCinema.csproj.GenerateResource.Cache
+C:\Users\Willy Osorto\Documents\Visual Studio 2012\Projects\HomeCinema\HomeCinema\obj\Debug\HomeCinema.exe
+C:\Users\Willy Osorto\Documents\Visual Studio 2012\Projects\HomeCinema\HomeCinema\obj\Debug\HomeCinema.pdb
+C:\Users\Willy Osorto\Documents\Visual Studio 2012\Projects\HomeCinema\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+C:\Users\Willy Osorto\Documents\Visual Studio 2012\Projects\HomeCinema\HomeCinema\obj\Debug\HomeCinema.csprojResolveAssemblyReference.cache
+D:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\bin\Debug\HomeCinema.exe.config
+D:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.exe
+D:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.pdb
+D:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\bin\Debug\HomeCinema.exe
+D:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\bin\Debug\HomeCinema.pdb
+D:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.csprojResolveAssemblyReference.cache
+D:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+D:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+D:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.csproj.GenerateResource.Cache
+D:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\bin\Debug\HomeCinema.exe.config
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.exe
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.pdb
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\bin\Debug\HomeCinema.exe
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\bin\Debug\HomeCinema.pdb
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.csprojResolveAssemblyReference.cache
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.csproj.GenerateResource.Cache
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.FormEntrar.resources
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\bin\Debug\Interop.WMPLib.dll
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\bin\Debug\AxInterop.WMPLib.dll
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\Interop.WMPLib.dll
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.csproj.ResolveComReference.cache
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.FormPelicula.resources
+E:\Documents\IS-410\Proyecto\HomeCinema\HomeCinema\obj\Debug\HomeCinema.FormWelcome.resources
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe.config
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\Interop.WMPLib.dll
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.csproj.ResolveComReference.cache
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.exe
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.pdb

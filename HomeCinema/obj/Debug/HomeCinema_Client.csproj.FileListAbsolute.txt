@@ -1,0 +1,200 @@
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe.config
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.pdb
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.dll
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.pdb
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\Interop.WMPLib.dll
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\AxInterop.WMPLib.dll
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csprojResolveAssemblyReference.cache
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\Interop.WMPLib.dll
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.ResolveComReference.cache
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormEntrar.resources
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormPelicula.resources
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormWelcome.resources
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.GenerateResource.Cache
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.exe
+E:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.pdb
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe.config
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\Interop.WMPLib.dll
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.ResolveComReference.cache
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.exe
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.pdb
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.pdb
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.dll
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.pdb
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\Interop.WMPLib.dll
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\AxInterop.WMPLib.dll
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csprojResolveAssemblyReference.cache
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormEntrar.resources
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormPelicula.resources
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormWelcome.resources
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+F:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.GenerateResource.Cache
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe.config
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\Interop.WMPLib.dll
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.ResolveComReference.cache
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.exe
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.pdb
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.pdb
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.dll
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.pdb
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\Interop.WMPLib.dll
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csprojResolveAssemblyReference.cache
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormEntrar.resources
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormPelicula.resources
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormWelcome.resources
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+D:\Documents\IS-410\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.GenerateResource.Cache
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe.config
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\Interop.WMPLib.dll
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.ResolveComReference.cache
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.exe
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.pdb
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe.config
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\Interop.WMPLib.dll
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.ResolveComReference.cache
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.exe
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.pdb
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.pdb
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.dll
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.pdb
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\Interop.WMPLib.dll
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csprojResolveAssemblyReference.cache
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormEntrar.resources
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormPelicula.resources
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormWelcome.resources
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+E:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.GenerateResource.Cache
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.pdb
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.dll
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.pdb
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\Interop.WMPLib.dll
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\AxInterop.WMPLib.dll
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csprojResolveAssemblyReference.cache
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormEntrar.resources
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormPelicula.resources
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormWelcome.resources
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+G:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.GenerateResource.Cache
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe.config
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\Interop.WMPLib.dll
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.ResolveComReference.cache
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.exe
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.pdb
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.pdb
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.dll
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.pdb
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\Interop.WMPLib.dll
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\AxInterop.WMPLib.dll
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csprojResolveAssemblyReference.cache
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormEntrar.resources
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormPelicula.resources
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormWelcome.resources
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+D:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.GenerateResource.Cache
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe.config
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\Interop.WMPLib.dll
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.ResolveComReference.cache
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.exe
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.pdb
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.pdb
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.dll
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.pdb
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\Interop.WMPLib.dll
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\AxInterop.WMPLib.dll
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csprojResolveAssemblyReference.cache
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormEntrar.resources
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormPelicula.resources
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormWelcome.resources
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+H:\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.GenerateResource.Cache
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe.config
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\Interop.WMPLib.dll
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.ResolveComReference.cache
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.exe
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.pdb
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.pdb
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.dll
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.pdb
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\Interop.WMPLib.dll
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\AxInterop.WMPLib.dll
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csprojResolveAssemblyReference.cache
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormEntrar.resources
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormPelicula.resources
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormWelcome.resources
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+I:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.GenerateResource.Cache
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe.config
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\Interop.WMPLib.dll
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.ResolveComReference.cache
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.exe
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.pdb
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.pdb
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.dll
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.pdb
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\Interop.WMPLib.dll
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\AxInterop.WMPLib.dll
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csprojResolveAssemblyReference.cache
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormEntrar.resources
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormPelicula.resources
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormWelcome.resources
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+E:\Documentos\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.GenerateResource.Cache
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe.config
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\Interop.WMPLib.dll
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.ResolveComReference.cache
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.exe
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.pdb
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.exe
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema.pdb
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.dll
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\HomeCinema_Library.pdb
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\Interop.WMPLib.dll
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csprojResolveAssemblyReference.cache
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Form1.resources
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormEntrar.resources
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormPelicula.resources
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormRegistro.resources
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.FormWelcome.resources
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema.Properties.Resources.resources
+C:\Users\Willy Osorto\Documents\UNAH\POO\Proyecto\Proyecto_EnEdición\HomeCinema_Cliente\HomeCinema\obj\Debug\HomeCinema_Client.csproj.GenerateResource.Cache
